@@ -1,1 +1,1 @@
-this is my first REACT project
+MERN learning progress tracking
