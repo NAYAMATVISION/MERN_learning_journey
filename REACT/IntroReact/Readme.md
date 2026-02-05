@@ -183,6 +183,8 @@ Section 13 useMemo
 The useMemo Hook is a built-in React Hook that helps optimize performance by memoizing the result of a computation
 and reusing it unless its dependencies change. This prevents expensive computations from being re-executed 
 unnecessarily during component re-renders.
+memoisation previously solved problem statement ko store krna ki dubaara solve na krne pde.
+
 
 Syntax
 const memoizedValue = useMemo(() => computeExpensiveValue(a, b), [a, b]);
